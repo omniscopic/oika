@@ -23,10 +23,10 @@ Nothing else moves.
 
 ## Publishing
 
-1. Upload the contents of this folder to the repo root of `omniscopic/Oika`.
+1. Upload the contents of this folder to the repo root of `omniscopic/oika`.
 2. Settings → Pages → Source: *Deploy from a branch* → `main` / `/ (root)` → Save.
-3. A minute later the site is live at `https://omniscopic.github.io/Oika/`
-   and the walk at `https://omniscopic.github.io/Oika/w/cobblestone-stories/`.
+3. A minute later the site is live at `https://omniscopic.github.io/oika/`
+   and the walk at `https://omniscopic.github.io/oika/w/cobblestone-stories/`.
 
 To update, replace the changed files and commit. Pages redeploys itself.
 
