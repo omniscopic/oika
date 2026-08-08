@@ -1,0 +1,235 @@
+[
+  {
+    "station": "01",
+    "rock": "Serpentinite",
+    "title": "The Ocean That Isn’t There",
+    "era": "Iapetus ocean floor",
+    "age": "~480 Ma",
+    "where": "Easy Street at Steamboat Wharf",
+    "lat": 41.28793,
+    "lng": -70.09665,
+    "minerals": [
+      "Antigorite",
+      "Chrysotile",
+      "Magnetite"
+    ],
+    "durationSeconds": 72,
+    "find": "A slick olive-green cobble two rows in from the kerb, darker than everything around it when wet.",
+    "look": "Waxy olive-green, soapy to the touch, cut by pale veins that meet at odd angles. The green is water — chemically bound into the mineral when seawater met hot ocean crust.",
+    "story": "Before New England existed there was an ocean called Iapetus. This stone is a piece of its floor, hydrated at a spreading ridge and later scraped onto a continent instead of being swallowed.",
+    "chapters": [
+      {
+        "t": "0:00",
+        "label": "An ocean with no coastline left"
+      },
+      {
+        "t": "0:26",
+        "label": "Why the green means water"
+      },
+      {
+        "t": "0:52",
+        "label": "Find the polished slip face"
+      }
+    ]
+  },
+  {
+    "station": "02",
+    "rock": "Garnet mica schist",
+    "title": "The First Collision",
+    "era": "Taconic orogeny",
+    "age": "~450 Ma",
+    "where": "Broad Street at Centre",
+    "lat": 41.28655,
+    "lng": -70.09992,
+    "minerals": [
+      "Muscovite",
+      "Biotite",
+      "Garnet",
+      "Quartz"
+    ],
+    "durationSeconds": 94,
+    "find": "Look for the cobble that flashes silver when you move your head — it only shines in one direction.",
+    "look": "Silvery sheets of mica lying all one way, and blood-red garnets the size of peppercorns sitting proud of the surface where the softer minerals wore away.",
+    "story": "An island arc ran aground on ancient North America. Mud on the sea floor was buried, cooked and squeezed until its minerals grew in rows — the rock remembers the direction of the squeeze.",
+    "chapters": [
+      {
+        "t": "0:00",
+        "label": "An island arc runs aground"
+      },
+      {
+        "t": "0:31",
+        "label": "Why the mica all lies one way"
+      },
+      {
+        "t": "1:02",
+        "label": "Garnet: pressure made visible"
+      }
+    ]
+  },
+  {
+    "station": "03",
+    "rock": "Alkali granite",
+    "title": "A Continent Called Avalonia",
+    "era": "Avalonian arrival",
+    "age": "~440 Ma",
+    "where": "Main Street at Federal",
+    "lat": 41.28421,
+    "lng": -70.09952,
+    "minerals": [
+      "Alkali feldspar",
+      "Quartz",
+      "Riebeckite",
+      "Hornblende"
+    ],
+    "durationSeconds": 108,
+    "find": "Third row from the gutter on the harbour side — the coolest, bluest grey stone in the row.",
+    "look": "Cool blue-grey and evenly speckled. The dark needles are riebeckite, an amphibole that only grows in dry alkali magma — rare, and a fingerprint of where this came from.",
+    "story": "Half of eastern New England is a foreign continent. Avalonia drifted in from the southern hemisphere and docked; its granites are the basement under Boston, quarried later for pavement.",
+    "chapters": [
+      {
+        "t": "0:00",
+        "label": "A continent arrives from the south"
+      },
+      {
+        "t": "0:34",
+        "label": "Blue needles in the feldspar"
+      },
+      {
+        "t": "1:10",
+        "label": "Why Boston paved with it"
+      }
+    ]
+  },
+  {
+    "station": "04",
+    "rock": "Migmatite",
+    "title": "Everything Welds Shut",
+    "era": "Alleghanian orogeny · Pangaea",
+    "age": "~300 Ma",
+    "where": "Upper Main Street at Gardner",
+    "lat": 41.28185,
+    "lng": -70.10528,
+    "minerals": [
+      "Feldspar",
+      "Quartz",
+      "Sillimanite",
+      "Biotite"
+    ],
+    "durationSeconds": 86,
+    "find": "The banded stone with pale swirls, near the elm on the north side.",
+    "look": "Bands folded like taffy. The pale streaks were molten while the dark ones stayed solid — a rock caught halfway to becoming magma.",
+    "story": "Africa closed in and Pangaea welded together. Deep under the collision, rock got hot enough to partly melt, and the melt wandered a few centimetres before freezing where you see it.",
+    "chapters": [
+      {
+        "t": "0:00",
+        "label": "A supercontinent closes"
+      },
+      {
+        "t": "0:29",
+        "label": "Rock that partly melted"
+      },
+      {
+        "t": "0:58",
+        "label": "Reading the fold hinges"
+      }
+    ]
+  },
+  {
+    "station": "05",
+    "rock": "Dolerite",
+    "title": "The Crack That Became an Ocean",
+    "era": "Atlantic rifting",
+    "age": "~200 Ma",
+    "where": "Orange Street at Fair",
+    "lat": 41.28118,
+    "lng": -70.09872,
+    "minerals": [
+      "Plagioclase",
+      "Pyroxene",
+      "Olivine"
+    ],
+    "durationSeconds": 79,
+    "find": "Almost black, and noticeably heavier underfoot — it rings differently when a cart crosses it.",
+    "look": "Near-black, dense, faintly pitted. A hand lens finds glassy laths of feldspar crossing a dark ground — magma that cooled fast in a crack.",
+    "story": "Pangaea tore back apart along the seam it had welded. Magma filled the cracks. The Atlantic began as a rift valley, and this stone was in its wall.",
+    "chapters": [
+      {
+        "t": "0:00",
+        "label": "A supercontinent tears"
+      },
+      {
+        "t": "0:27",
+        "label": "Magma in the fracture"
+      },
+      {
+        "t": "0:55",
+        "label": "Why it feels heavier"
+      }
+    ]
+  },
+  {
+    "station": "06",
+    "rock": "Granodiorite erratic",
+    "title": "Carried Here by Ice",
+    "era": "Laurentide ice sheet",
+    "age": "~21,000 yrs",
+    "where": "Union Street at Stone Alley",
+    "lat": 41.28251,
+    "lng": -70.09751,
+    "minerals": [
+      "Plagioclase",
+      "Quartz",
+      "Biotite",
+      "Hornblende"
+    ],
+    "durationSeconds": 101,
+    "find": "A rounded stone with fine parallel scratches on its upper face — catch it in low sun.",
+    "look": "Rounded on every face, speckled black and white, and scored with a set of fine parallel scratches. That is the ice’s own handwriting, made by grit dragged under a glacier.",
+    "story": "Nantucket is a pile of debris left where the ice stopped. This stone was quarried by a glacier somewhere north of here and set down when the ice melted out from under it.",
+    "chapters": [
+      {
+        "t": "0:00",
+        "label": "The island is a moraine"
+      },
+      {
+        "t": "0:33",
+        "label": "Scratches made by ice"
+      },
+      {
+        "t": "1:08",
+        "label": "Where it started out"
+      }
+    ]
+  },
+  {
+    "station": "07",
+    "rock": "Ballast cobble",
+    "title": "Laid by Hand, 1837",
+    "era": "Human time",
+    "age": "1837",
+    "where": "Straight Wharf at Main",
+    "lat": 41.28556,
+    "lng": -70.09672,
+    "minerals": [
+      "Quarried, not found"
+    ],
+    "durationSeconds": 65,
+    "find": "Squarer than its neighbours, with tool marks on two faces.",
+    "look": "Squarer than everything around it, with tool marks on two faces. This one was quarried, not found — it crossed water in a ship’s belly as ballast.",
+    "story": "The last chapter is ours. Nantucket paved Main Street with stone brought in by sea, and in doing so built a floor of deep time that the whole town walks over without looking down.",
+    "chapters": [
+      {
+        "t": "0:00",
+        "label": "Stone as cargo"
+      },
+      {
+        "t": "0:22",
+        "label": "Tool marks vs ice marks"
+      },
+      {
+        "t": "0:46",
+        "label": "A floor of deep time"
+      }
+    ]
+  }
+]
