@@ -1,0 +1,164 @@
+{
+  "splash": {
+    "eyebrow": "Oika Go presents",
+    "title": "Cobblestone Stories",
+    "sub": "A 500-million-year walk through downtown Nantucket",
+    "invitation": "There is a deeper history of Nantucket than the one you have been told. Older than the town, older than the island, older than the Atlantic itself. It is written in the stones of these streets, and it is the story of life on Earth.",
+    "how": [
+      "Follow the map to seven stones set in the streets",
+      "At each one, we show you exactly where to look",
+      "Watch the street dissolve back to the stone’s lost world",
+      "And as you walk between stations, listen: Earth’s story continues underfoot"
+    ],
+    "cta": "Begin the walk",
+    "stats": "7 stations · 0.6 miles · about 55 minutes"
+  },
+  "st1": {
+    "rock": "Grenville Gneiss",
+    "title": "The Anvil",
+    "era": "Grenville orogeny",
+    "age": "1 Ga → 500 Ma · the basement",
+    "where": "Main & Federal",
+    "minerals": "Quartz, Feldspar, Biotite, Garnet",
+    "sceneEnd": "~1.1 Ga · a barren world",
+    "vdur": "0:45",
+    "adur": "1:20",
+    "find": "Banded grey stone, three rows in from the kerb.",
+    "story": "Before anything that would become New England, there was the craton: the ancient continental core, now the Berkshires, that every later land slams into. This banded stone was cooked and squeezed miles down in the roots of mountains that rose before complex life existed.",
+    "mnote": "The light and dark banding is the signature of deep-crust metamorphism: minerals segregating under heat and pressure. Tap each mineral to highlight it in the close-up."
+  },
+  "st2": {
+    "rock": "Garnet Mica Schist",
+    "title": "The First Weld",
+    "era": "Taconic orogeny",
+    "age": "~450 million years",
+    "where": "Main Street at Straight Wharf",
+    "minerals": "Almandine, Muscovite, Biotite",
+    "sceneEnd": "~450 Ma · trilobite seas",
+    "vdur": "0:45",
+    "adur": "1:20",
+    "find": "Grey stone that glitters as you move.",
+    "story": "An ocean called Iapetus once stood where the Atlantic stands now. As it closed, offshore volcanic arcs docked against the shelf and the sea-floor muds were driven deep and cooked into this shining schist. The first mountains rise. Trilobites patrol the shallows.",
+    "mnote": "The glitter is muscovite grown flat under directed pressure. The red pinheads are almandine garnet, which only grows miles down: this stone is its own depth gauge."
+  },
+  "st3": {
+    "rock": "Alkali Granite",
+    "title": "The Wanderer Docks",
+    "era": "Acadian orogeny",
+    "age": "~400 million years",
+    "where": "Main Street at Federal",
+    "minerals": "Perthite, Riebeckite, Quartz",
+    "sceneEnd": "~400 Ma · Avalonia arrives",
+    "vdur": "0:45",
+    "adur": "1:20",
+    "find": "Pink-grey granite flecked with black needles.",
+    "story": "Half of New England is foreign. A microcontinent called Avalonia, born near Africa, crossed the closing ocean and welded on: eastern Massachusetts, the Cape, and Nantucket’s basement. This granite crystallised in that collision. The wanderer from Africa is home.",
+    "mnote": "Riebeckite, the blue-black needle, grows only in unusual alkali granites. The pink is perthite feldspar. Stone like this floored the arriving terrane."
+  },
+  "st4": {
+    "rock": "Puddingstone",
+    "title": "The Final Crunch",
+    "era": "Alleghanian orogeny",
+    "age": "~300 million years",
+    "where": "Centre Street steps",
+    "minerals": "Quartzite pebbles, Quartz cement, Hematite",
+    "sceneEnd": "~300 Ma · Pangaea",
+    "vdur": "0:45",
+    "adur": "1:20",
+    "find": "A cobble made of smaller pebbles, cemented.",
+    "story": "Africa itself arrives and Pangaea closes. Coal swamps fill the Narragansett Basin; the squeeze folds it shut and stretches the pebbles inside this very stone. Every continent on Earth stands in one piece, and New England is complete.",
+    "mnote": "Look for pebbles visibly flattened and stretched: the deformation of the final collision, frozen mid-squeeze. Purgatory puddingstone is the type example."
+  },
+  "st5": {
+    "rock": "Basalt",
+    "title": "The Reversal",
+    "era": "Atlantic rifting",
+    "age": "~200 million years",
+    "where": "Lower Main",
+    "minerals": "Plagioclase, Augite, Magnetite",
+    "sceneEnd": "~200 Ma · the newborn Atlantic",
+    "vdur": "0:45",
+    "adur": "1:20",
+    "find": "The darkest, densest stone in the street.",
+    "story": "Pangaea does not hold. The supercontinent tears along the old welds, lava floods the rift valleys, and the crack widens into the Atlantic Ocean. Dinosaurs leave tracks in the rift mud. A mile below Nantucket, this lava is the floor under everything younger.",
+    "mnote": "Crystals too fine to see: magma frozen fast in a crack. Gas-bubble holes (vesicles) are the fizz of the eruption, preserved."
+  },
+  "wk1": {
+    "span": "1.1 Ga → 450 Ma",
+    "time": "4 min walk · 650 million years",
+    "line": "You are walking the longest interval of the whole route: the birth of an ocean and the invention of animals.",
+    "beats": [
+      "Iapetan rifting (~570–540 Ma) tears the margin open; the Iapetus Ocean is born",
+      "The Cambrian explosion fills its waters: the first eyes, shells, hunters",
+      "A quiet passive margin gathers the sand and mud the next collision will cook"
+    ]
+  },
+  "wk2": {
+    "span": "450 → 400 Ma",
+    "time": "3 min walk · 50 million years",
+    "line": "Between welds: mountains fall apart, ice comes and goes, and the shore turns green for the first time.",
+    "beats": [
+      "The young Taconic mountains erode; their debris fills Silurian seas",
+      "End-Ordovician extinction: ice grows as the fresh peaks weather and draw down CO₂",
+      "The first plants green the land’s edge; Avalonia sails closer"
+    ]
+  },
+  "wk3": {
+    "span": "400 → 300 Ma",
+    "time": "3 min walk · 100 million years",
+    "line": "The wanderer is welded on. While its mountains erode, life leaves the water for good.",
+    "beats": [
+      "The Acadian highlands wear down grain by grain",
+      "The first forests rise; the Late Devonian extinction follows the greening",
+      "First vertebrates walk ashore; coal swamps begin to gather"
+    ]
+  },
+  "wk4": {
+    "span": "300 → 200 Ma",
+    "time": "2 min walk · 100 million years",
+    "line": "One world, one ocean around it. Then the worst day life has ever had, and the long recovery.",
+    "beats": [
+      "Pangaea’s interior ranges shed sand across a supercontinent",
+      "End-Permian, the Great Dying: nine in ten species vanish",
+      "Survivors inherit an empty world; the first dinosaurs stand up in it"
+    ]
+  },
+  "wk5": {
+    "span": "200 Ma → 21,000 yrs",
+    "time": "4 min walk · 200 million years",
+    "line": "The mountains you have met are ground away to a quiet coast. Then the climate turns, and the builder of this island starts to grow.",
+    "beats": [
+      "The Atlantic widens; New England is stripped toward its roots",
+      "End-Cretaceous impact: the dinosaurs’ story closes; mammals’ opens",
+      "The Pleistocene cold arrives, and ice begins to move south"
+    ]
+  },
+  "wk6": {
+    "span": "21,000 yrs → today",
+    "time": "3 min walk · the human chapter",
+    "line": "The shortest interval, and the only one with witnesses. The street you are walking is its final page.",
+    "beats": [
+      "The ice melts back; the sea rises around the moraine and makes it an island",
+      "People arrive: the Wampanoag know this land first",
+      "A whaling town rises; in 1837 hands set these stones into a street"
+    ]
+  },
+  "ice": {
+    "title": "The Great Carry",
+    "era": "Laurentide ice sheet · Station 6",
+    "age": "Every stone you met · ~21,000 years ago",
+    "vdur": "2:30",
+    "mapCap": "Where your stones began",
+    "diagCap": "Moraine · outwash · erratics · kettles",
+    "narration": "The sheet grows, flows, plucks each stone you met from its home ground, stalls here, and melts. The glacier that built Nantucket still exists.",
+    "story": "The five stones behind you were plucked from five different homelands, dragged south beneath a mile of ice, and dropped where the ice stopped. That dumping ground is the island under your feet. Nantucket is not built on rock. Nantucket is the rock pile."
+  },
+  "fin": {
+    "title": "You have walked 500 million years. Now feel it whole.",
+    "era": "Station 7 · The Culmination",
+    "age": "Best experienced seated, harbour in view",
+    "vdur": "3:10",
+    "stripCap": "Woven into the film · the stones you visited",
+    "narration": "Narrated by Dr. Rich Blundell, over Pachelbel’s Canon in D. It ends on the wet cobbles you are standing on."
+  }
+}
